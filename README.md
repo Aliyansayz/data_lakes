@@ -1,7 +1,7 @@
 # data_lakes
 
 
-A company plans to explore data lakes and their components. What are reasons to invest in a data lake? (Choose TWO.)
+ ## A company plans to explore data lakes and their components. What are reasons to invest in a data lake? (Choose TWO.)
 
 ✔️Offload capacity from databases and data warehouses
 Increase operational overhead
